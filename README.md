@@ -1,7 +1,6 @@
 # ArogyaSetu-Website
 A website made for self-assessment of COVID and tracking the cases in various states.
 <p align="center"> 
-    # Home Page
   <img src="https://github.com/Purnata-1/ArogyaSetu-Website/blob/main/arogyasetu_project/Images/Home%20Page.png"> 
 </p> 
  
